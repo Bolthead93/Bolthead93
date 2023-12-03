@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bolthead93
-- Check out my portfolio here https://www.jordan-bolton.com/
+- Check out my portfolio here https://www.ribcat.games/portfolio
 - I’m interested in music production and game development.
 - Currently working on a game https://www.ribcat.games
 
